@@ -1,0 +1,16 @@
+
+.bg-color{
+	background-color:#25476a;
+	background-size: cover
+	
+}
+
+.img-small {
+  width: 100px;
+  height: 100px;
+}
+
+.img-smaller {
+  width: 30px;
+  height: 30px;
+}
